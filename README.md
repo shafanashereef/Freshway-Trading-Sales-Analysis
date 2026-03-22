@@ -1,9 +1,9 @@
-# 📊 Sales & Product Performance Dashboard  
+# Sales & Product Performance Dashboard  
 ## Freshway International Trading (FMCG), Qatar — Power BI Project
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes **sales performance for February and March** using **Power BI**, focusing on salesperson performance, product contributions, and sales variance analysis.
 
@@ -11,22 +11,22 @@ The dashboard helps monitor sales targets, evaluate performance trends, and unde
 
 ---
 
-## 🏢 About the Company
+## About the Company
 
 **Freshway International Trading (FMCG), Qatar** is engaged in the trading and distribution of fast-moving consumer goods.
 
 The company deals with:
 
-- 🥬 Vegetables  
-- 🍎 Fruits  
-- 🫒 Edible Oil  
-- 🌴 Dates & Nuts  
+- Vegetables  
+- Fruits  
+- Edible Oil  
+- Dates & Nuts  
 
 Freshway Trading aims to provide seamless buying and selling experiences while maintaining operational excellence in global trading.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze sales performance by comparing **actual sales vs target sales**
 - Evaluate **monthly sales variance and performance trends**
@@ -37,7 +37,7 @@ Freshway Trading aims to provide seamless buying and selling experiences while m
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 - Total Sales  
 - Total Target  
@@ -50,9 +50,9 @@ Freshway Trading aims to provide seamless buying and selling experiences while m
 
 ---
 
-## 📊 Dashboard Structure
+## Dashboard
 
-### 🏠 Page 1 — Sales Overview & Salesman Performance
+### Sales Overview & Salesman Performance
 
 Includes:
 
@@ -67,7 +67,7 @@ Monitor overall performance and compare salesperson results.
 
 ---
 
-### 📦 Page 2 — Product Performance Analysis
+### Product Performance Analysis
 
 Includes:
 
@@ -82,7 +82,7 @@ Understand product demand and salesperson-product relationships.
 
 ---
 
-## 🔍 Key Insights Generated
+## Key Insights Generated
 
 - Performance comparison across salespersons
 - Product contribution analysis
@@ -92,7 +92,7 @@ Understand product demand and salesperson-product relationships.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Power BI Desktop  
 - DAX (Data Analysis Expressions)  
